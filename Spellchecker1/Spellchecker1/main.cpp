@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Spellchecker1
-//
-//  Created by Masatoshi Chang on 7/6/13.
-//  Copyright (c) 2013 Masatoshi Chang. All rights reserved.
-//
-
 #include <iostream>
 
 int main(int argc, const char * argv[])

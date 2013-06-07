@@ -1,5 +1,15 @@
 Possible data structures to use for spell checker:
 
+
+http://norvig.com/spell-correct.html
+
+http://stackoverflow.com/questions/2294915/what-algorithm-gives-suggestions-in-a-spell-checker
+
+
+http://theyougen.blogspot.tw/2010/02/producing-candidates-for-spelling.html
+
+
+
 •Hash Table
 •Ternary Search Tree
 •Bloom Filter
