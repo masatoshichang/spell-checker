@@ -1,0 +1,10 @@
+Possible data structures to use for spell checker:
+
+•Hash Table
+•Ternary Search Tree
+•Bloom Filter
+•Trie (Prefix Tree)
+•BK Tree
+•Dynamic Programming Algorithm (DPA) for Edit-Distance
+	⁃http://www.csse.monash.edu.au/~lloyd/tildeAlgDS/Dynamic/Edit/
+	⁃Levenshtein-Algorithm
