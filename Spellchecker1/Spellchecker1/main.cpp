@@ -1,10 +1,25 @@
 #include <iostream>
+#include <fstream>
+#include <string>
+
+
+#include "spellchecker1.h"
 
 int main(int argc, const char * argv[])
 {
-
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    //ifstream textfile;
+    
+    
+    
+    
+    spellchecker spellcheck;
+    
+    spellcheck.open("dictionary.txt");
+    
+    //spellcheck.build(textfile, dictionaryfile);
+    
+    
     return 0;
 }
 

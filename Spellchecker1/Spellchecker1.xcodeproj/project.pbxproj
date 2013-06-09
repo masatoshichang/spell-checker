@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5D17A4B11762200C0034CE80 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D17A4B01762200C0034CE80 /* main.cpp */; };
 		5D17A4B31762200C0034CE80 /* Spellchecker1.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5D17A4B21762200C0034CE80 /* Spellchecker1.1 */; };
+		5D17A4D31762F88B0034CE80 /* spellchecker1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D17A4D11762F88B0034CE80 /* spellchecker1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		5D17A4AD1762200C0034CE80 /* Spellchecker1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Spellchecker1; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D17A4B01762200C0034CE80 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5D17A4B21762200C0034CE80 /* Spellchecker1.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Spellchecker1.1; sourceTree = "<group>"; };
+		5D17A4D11762F88B0034CE80 /* spellchecker1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = spellchecker1.cpp; sourceTree = "<group>"; };
+		5D17A4D21762F88B0034CE80 /* spellchecker1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = spellchecker1.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,8 @@
 			isa = PBXGroup;
 			children = (
 				5D17A4B01762200C0034CE80 /* main.cpp */,
+				5D17A4D11762F88B0034CE80 /* spellchecker1.cpp */,
+				5D17A4D21762F88B0034CE80 /* spellchecker1.h */,
 				5D17A4B21762200C0034CE80 /* Spellchecker1.1 */,
 			);
 			path = Spellchecker1;
@@ -118,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D17A4B11762200C0034CE80 /* main.cpp in Sources */,
+				5D17A4D31762F88B0034CE80 /* spellchecker1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,6 +222,7 @@
 				5D17A4B81762200C0034CE80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
